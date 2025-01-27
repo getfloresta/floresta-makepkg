@@ -1,0 +1,3 @@
+d /var/lib/florestad 0775 florestad florestad - -
+d /etc/florestad     0775 florestad florestad - -
+
